@@ -2,7 +2,7 @@
 
 📌 Sobre o Projeto
 
-Este projeto é uma aplicação em Spring Boot que realiza a pesquisa de CEP utilizando a API do ViaCEP, armazena as consultas em um banco de dados H2 e expõe um endpoint REST.
+Este projeto é uma aplicação em Spring Boot que realiza a pesquisa de CEP utilizando a API do ViaCEP, armazena as consultas em um banco de dados MySQL e expõe um endpoint REST.
 
 
 🛠 Tecnologias Utilizadas
