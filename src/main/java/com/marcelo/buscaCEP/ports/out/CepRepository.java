@@ -7,5 +7,7 @@ import com.marcelo.buscaCEP.domain.entity.CepEntity;
 
 @Repository
 public interface CepRepository extends CrudRepository<CepEntity, Long> {
+	
+
 
 }
