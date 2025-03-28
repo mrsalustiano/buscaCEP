@@ -8,11 +8,17 @@ Este projeto é uma aplicação em Spring Boot que realiza a pesquisa de CEP uti
 🛠 Tecnologias Utilizadas
 
 Java 17
+
 Spring Boot 3
+
 Spring Data JPA
+
 Spring Cloud OpenFeign (para consumir a API do ViaCEP)
+
 Banco de Dados MySQL
+
 Lombok
+
 Docker para o MYSQL
 
 📡 Como Usar a API
