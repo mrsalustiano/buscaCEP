@@ -22,10 +22,10 @@ class BuscaCepControllerTest {
 	 
 	
 	@MockBean
-    private CepServiceImpl cepService;  // Mockando o CepService para injeção no contexto do Spring
+    private CepServiceImpl cepService; 
 
     @Autowired
-    private MockMvc mockMvc;  // Usando MockMvc para testar o controlador
+    private MockMvc mockMvc; 
 
 	 
 
@@ -33,7 +33,7 @@ class BuscaCepControllerTest {
 
 	    @Test
 	    void buscarCepTest() throws Exception {
-	        // Dados simulados de resposta do ViaCEP
+	    	
 	    	  CepSearchDto cepDTO = new CepSearchDto().builder()
 		        		.cep("02611-001")
 		        		.logradouro("Avenida Parada Pinto")
