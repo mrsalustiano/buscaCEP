@@ -24,7 +24,7 @@ Após rodar a aplicação, acesse no navegador ou Postman:
 
  Resposta esperada (JSON)
 
- `` 
+ ``` 
  {
     "cep": "02611-001",
     "logradouro": "Avenida Parada Pinto",
@@ -37,6 +37,6 @@ Após rodar a aplicação, acesse no navegador ou Postman:
     "ddd": "11",
     "siafi": "7107"
 }
-``
+```
 
 
