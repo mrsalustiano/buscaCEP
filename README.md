@@ -13,6 +13,7 @@ Spring Data JPA
 Spring Cloud OpenFeign (para consumir a API do ViaCEP)
 Banco de Dados MySQL
 Lombok
+Docker para o MYSQL
 
 📡 Como Usar a API
 
